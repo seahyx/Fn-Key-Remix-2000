@@ -39,3 +39,10 @@ Fn + Mouse wheel up      = increase volume
 Fn + Middle mouse button = play/pause media
 Fn + Menu                = run task manager
 ```
+
+## Windows guide to add script to startup
+
+1. Press Win + R, type in “shell:startup” and press Enter to open startup folder.
+2. Create a shortcut from the .ahk script or .exe compiled script and move it into the startup folder.
+3. ???
+4. Profit!!!
