@@ -6,7 +6,7 @@ Additions are based on my preferences and focused on convenience and functionali
 
 Function lock does not affect these hotkeys.
 
-Feel free to fork/clone and edit the settings to your own liking, and feel free to send any suggestions this way!
+Feel free to fork/clone and edit the settings to your own liking, and send any suggestions this way!
 
 List of key remaps:
 
